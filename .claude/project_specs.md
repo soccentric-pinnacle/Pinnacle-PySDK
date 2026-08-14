@@ -1,4 +1,4 @@
-# Pinnacle-PySDK — specs Remote: `git@github.com:SiliconCentric/Pinnacle-PySDK.git`
+# Pinnacle-PySDK — specs Remote: `git@github.com:soccentric-pinnacle/Pinnacle-PySDK.git`
 Stack: Python, uv-managed, src layout. Consumes the `HalService` gRPC endpoint exposed by Pinnacle-Client — the same wire contract
 Pinnacle-Server speaks. ## Layout * `pinnacle-sdk/` — everything: source, tooling, docs, examples, the make workflow (setup/ gen/ check/ build).
 * `pinnacle-sdk/src/pinnacle_sdk/` — the package. Import name `pinnacle_sdk`, distribution name `pinnacle-sdk`.
